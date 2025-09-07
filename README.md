@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @tomaszpro
+### www.tomasz.pro workspace
 
-[www.tomasz.pro](https://www.tomasz.pro)
+🌐 [www.tomasz.pro](https://www.tomasz.pro)
