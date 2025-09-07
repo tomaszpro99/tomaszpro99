@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @tomaszpro99
+- 👋 Hi, I’m @tomaszpro
 
-https://tomasz.pro
+[www.tomasz.pro](https://www.tomasz.pro)
